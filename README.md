@@ -16,5 +16,5 @@
 | WWW 2018 | Matching Resumes to Jobs via Deep Siamese Network | | |
 | www18-tutorial-deep-matching.pdf | Deep Learning for Matching in Search and Recommendation | | |
 |  |  | https://github.com/faneshion/NDRM |A repository for Neural Document Ranking Models. |
-
-
+||Text Matching as Image Recognition|https://github.com/pl8787/MatchPyramid-TensorFlow|A simple version of MatchPyramid implement in TensorFlow. Paper https://arxiv.org/abs/1602.06359.|
+|||https://github.com/pl8787/textnet-release|TextNet: A deep neural network framework for text matching|
