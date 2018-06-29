@@ -14,7 +14,7 @@
 | 2014 | A Parallel and Efficient Algorithm for Learning to Match | | |
 | 2007 | Learning by Doing vs. Learning about Match Quality: Can We Tell Them Apart? | | |
 | WWW 2018 | Matching Resumes to Jobs via Deep Siamese Network | | |
-| | www18-tutorial-deep-matching.pdf | | |
+| www18-tutorial-deep-matching.pdf | Deep Learning for Matching in Search and Recommendation | | |
 
 
 
