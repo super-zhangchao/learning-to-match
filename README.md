@@ -13,3 +13,7 @@
 |||https://github.com/faneshion/MatchZoo|
 |NIPS 2017|Deconvolutional Paragraph Representation Learning|https://github.com/dinghanshen/textCNN_public|
 
+| code | des |
+| :-: | - |
+| https://github.com/pl8787/MatchPyramid-TensorFlow| A simple version of MatchPyramid implement in TensorFlow. |
+| https://github.com/dadashkarimi/Y-Flow | Y-Flow is an extension for MatchZoo https://github.com/faneshion/MatchZoo toolkit for text matching. |
