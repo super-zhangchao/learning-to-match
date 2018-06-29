@@ -20,3 +20,6 @@
 | https://github.com/faneshion/MatchZoo | MatchZoo is a toolkit for text matching. It was developed to facilitate the designing, comparing, and sharing of deep text matching models. |
 | https://github.com/pl8787/MatchPyramid-TensorFlow| A simple version of MatchPyramid implement in TensorFlow. |
 | https://github.com/dadashkarimi/Y-Flow | Y-Flow is an extension for MatchZoo https://github.com/faneshion/MatchZoo toolkit for text matching. |
+
+
+| matching model | https://github.com/faneshion/HiNT | Implementation of Hierarchical Neural maTching model proposed in SIGIR'18 for ad-hoc retrieval |
