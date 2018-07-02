@@ -2,7 +2,7 @@
 
 
 | conference | paper | code | des |
-| - | :-: | - | - |
+| - | :---: | -: | -: |
 | ACL 2018 | Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms|https://github.com/dinghanshen/SWEM| |
 | NIPS 2017 | Deconvolutional Paragraph Representation Learning|https://github.com/dinghanshen/textCNN_public| |
 |  | aNMM: Ranking Short Answer Texts with Attention-Based Neural Matching Model |  | |
