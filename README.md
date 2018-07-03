@@ -67,7 +67,7 @@ T. Mikolov, I. Sutskever, K. Chen, G. S. Corrado, and J. Dean. Distributed repre
 * Liu Yang , Qingyao Ai , Jiafeng Guo , W. Bruce Croft, aNMM: Ranking Short Answer Texts with Attention-Based Neural Matching Model, Proceedings of the 25th ACM International on Conference on Information and Knowledge Management, October 24-28, 2016, Indianapolis, Indiana, USA
 * Liang Pang , Yanyan Lan , Jiafeng Guo , Jun Xu , Shengxian Wan , Xueqi Cheng, Text matching as image recognition, Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence, February 12-17, 2016, Phoenix, Arizona
 * Jiafeng Guo , Yixing Fan , Qingyao Ai , W. Bruce Croft, A Deep Relevance Matching Model for Ad-hoc Retrieval, Proceedings of the 25th ACM International on Conference on Information and Knowledge Management, October 24-28, 2016, Indianapolis, Indiana, USA
-	DRMM
+    * DRMM
 * Yuan Tang. 2016. TF.Learn: TensorFlow's High-level Module for Distributed Machine Learning. arXiv preprint arXiv:1612.04251 (2016).
 * Liu Yang , Qingyao Ai , Jiafeng Guo , W. Bruce Croft, aNMM: Ranking Short Answer Texts with Attention-Based Neural Matching Model, Proceedings of the 25th ACM International on Conference on Information and Knowledge Management, October 24-28, 2016, Indianapolis, Indiana, USA
 
@@ -75,15 +75,15 @@ T. Mikolov, I. Sutskever, K. Chen, G. S. Corrado, and J. Dean. Distributed repre
 * Zhiguo Wang, Wael Hamza, Radu Florian. Bilateral Multi-Perspective Matching for Natural Language Sentences. 2017.
 * Kai Hui, Andrew Yates, Klaus Berberich, and Gerard de Melo. 2017. PACRR: A Position-Aware Deep Model for Relevance Matching in Information Retrieval. In EMNLP 2017.
 * Liang Pang, Yanyan Lan, Jiafeng Guo, Jun Xu, Jingfang Xu, and Xueqi Cheng. 2017. DeepRank: A New Deep Architecture for Relevance Ranking in Information Retrieval. In CIKM 2017.
-	DeepRank
+    * DeepRank
 * Bhaskar Mitra, Fernando Diaz, and Nick Craswell. 2017. Learning to Match Using Local and Distributed Representations of Text for Web Search. In WWW 2017.
 * Mostafa Dehghani, Hamed Zamani, Aliaksei Severyn, Jaap Kamps, and W. Bruce Croft. 2017. Neural ranking models with weak supervision. In Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2017). ACM, pages 65–74.
 * C. Xiong, Z. Dai, J. Callan, Z. Liu, and R. Power. End-to-end neural ad-hoc ranking with kernel pooling. In Proceedings of the 40th International ACM SIGIR Conference on Research & Development in Information Retrieval. ACM. 2017.
-	http://www.cs.cmu.edu/~zhuyund/
-	https://github.com/AdeDZY/K-NRM
+    * http://www.cs.cmu.edu/~zhuyund/
+    * https://github.com/AdeDZY/K-NRM
 * Bhaskar Mitra , Fernando Diaz , Nick Craswell, Learning to Match using Local and Distributed Representations of Text for Web Search, Proceedings of the 26th International Conference on World Wide Web, April 03-07, 2017, Perth, Australia
 * Bhaskar Mitra, Fernando Diaz, and Nick Craswell. 2017. Learning to Match Using Local and Distributed Representations of Text for Web Search WWW '17. 1291--1299.
-	DUET
+    * DUET
 
 # 2018
 * Zhuyun Dai, Chenyan Xiong, Jamie Callan, and Zhiyuan Liu. 2018. Convolutional neural networks for soft-matching n-grams in ad-hoc search. In Proceedings of the Eleventh ACM International Conference on Web Search and Data Mining (WSDM 2018). ACM, pages 126–134.
