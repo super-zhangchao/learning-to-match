@@ -89,6 +89,7 @@ T. Mikolov, I. Sutskever, K. Chen, G. S. Corrado, and J. Dean. Distributed repre
 # 2018
 * Zhuyun Dai, Chenyan Xiong, Jamie Callan, and Zhiyuan Liu. 2018. Convolutional neural networks for soft-matching n-grams in ad-hoc search. In Proceedings of the Eleventh ACM International Conference on Web Search and Data Mining (WSDM 2018). ACM, pages 126–134.
 * Jinfeng Rao, Wei Yang, Yuhao Zhang, Ferhan Ture, and Jimmy Lin. 2018. MultiPerspective Relevance Matching with Hierarchical ConvNets for Social Media Search. (2018). arXiv:arXiv:1805.08159
+Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms
 
 Deconvolutional Latent-Variable Model for Text Sequence Matching
 Towards Beer Text Understanding and Retrieval through Kernel Entity Salience Modeling
