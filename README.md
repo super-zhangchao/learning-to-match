@@ -60,6 +60,7 @@ T. Mikolov, I. Sutskever, K. Chen, G. S. Corrado, and J. Dean. Distributed repre
 # 2016
 * Jiafeng Guo, Yixing Fan, Qingyao Ai, and W. Bruce Croft. 2016. A Deep Relevance Matching Model for Ad-hoc Retrieval CIKM '16. 55--64.
 * [Yin et al.2016] Wenpeng Yin, Hinrich Schutze, Bing Xi- ¨ang, and Bowen Zhou. 2016. ABCNN: Attentionbased convolutional neural network for modeling sentence pairs. In Transactions of the Association of Computational Linguistics.
+	* https://github.com/galsang/ABCNN
 * Liang Pang , Yanyan Lan , Jiafeng Guo , Jun Xu , Shengxian Wan , Xueqi Cheng, Text matching as image recognition, Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence, February 12-17, 2016, Phoenix, Arizona
 	MatchPyramid
 * S. Wan, Y. Lan, J. Xu, J. Guo, L. Pang, and X. Cheng. Match-srnn: Modeling the recursive matching structure with spatial rnn. In IJCAI, 2016.
